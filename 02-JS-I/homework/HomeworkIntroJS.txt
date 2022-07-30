@@ -1,0 +1,5 @@
+ * Variables: espacios de memoria que se reservan para guardar datos que serán utilizados en diferentes partes del código fuente y/o a lo largo de este.
+ * Strings: es un tipo de dato en el que se pueden almacenar cadenas de caracteres, es decir, palabras, frases, etc.
+ * Funciones (argumentos, `return`): es un tipo de objeto que contiene un bloque de código el cual realiza una operación o tareas específicas, las cuales pueden utilizar argumentos o parámetros de entrada y devuelven o retornan una salida.
+ * Declaraciones `if`: es un tipo de sentencia utilizada para evaluar uno o más expresiones y con base en ello, ejecutar uno u otra pieza de código.
+ * Valores booleanos (`true`, `false`): son términos que representan un tipo de dato lógico y este, el valor de verdad de una variable o expresión.
