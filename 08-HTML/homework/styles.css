@@ -1,0 +1,20 @@
+h1 {
+    color:blueviolet;
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 800px;
+    background: rgb(200, 245, 241);
+    padding: 50px;
+    border: 2px solid yellow;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
